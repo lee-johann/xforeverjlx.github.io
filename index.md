@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+## Receent Research
+
+- Synthetic dataset generation for Question-Answering LLMs (advised by Prof. Kilian Weinberger, Cornell ML Core lab)
+- Speeding up GenAI inference with network multiplexing (advised by Prof. Rachee Singh, Cornell Systems lab)
+- $.99 bias in Amazon Mechanical Turk
+
 ## Recent Inputs
 
 - **Software Indsutry** [caching's impact on LLM search](https://newsletter.tidalwaveresearch.com/p/google-io-bard-and-implications-for), [speed vs cost of innovation](https://benn.substack.com/p/do-we-still-need-the-world-wide-web), [digital ads as CAC](https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising)

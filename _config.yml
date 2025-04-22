@@ -1,7 +1,7 @@
 # Basic Information
 title: Johann Lee
-position: CS Econ Double Major
-affiliation: Cornell University
+position: Data Scientist at Adobe (Acrobat & GenAI)
+affiliation: CS at Cornell University
 email: johannchrislee@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -12,11 +12,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
 cv_link: assets/files/ds_resume.pdf
-github_link: https://github.com/xforeverjlx
+# github_link: https://github.com/xforeverjlx
 linkedin: https://www.linkedin.com/in/johann-lee-02074718a/
 # twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=EuxhVxoAAAAJ&hl=en&oi=ao
 instagram: https://www.instagram.com/johann_lee
 # TODO https://stackoverflow.com/questions/75189762/how-to-save-contact-details-from-a-website-to-an-android-or-iphone-using-html-bu
 

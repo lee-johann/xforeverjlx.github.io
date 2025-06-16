@@ -4,10 +4,10 @@ layout: homepage
 
 ## Recent Interests
 
-- Synthetic dataset for evaluating reasoning and retrieval LLMs (advised by Prof. Kilian Weinberger, Cornell ML Core lab)
+- Synthetic dataset for evaluating reasoning and retrieval LLMs (advised by Prof. Kilian Weinberger, [published at ICML 2025](https://arxiv.org/abs/2502.20377))
 - Training complex reseaoning and retrieval LLMs using dataset curriculums (advised by Prof. Weinberger)
 - Speeding up GenAI inference with network multiplexing (advised by Prof. Rachee Singh, Cornell Systems lab)
-- $.99 bias in Amazon Mechanical Turk (advised by Dr. Bart De Koning)
+- $.99 bias in Amazon Mechanical Turk dataset labeling pricing (advised by Dr. Bart De Koning)
 
 <!-- ## Recent Readings
 

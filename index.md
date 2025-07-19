@@ -4,9 +4,9 @@ layout: homepage
 
 ## Recent Interests
 
-- Synthetic datasets for evaluating reasoning and retrieval LLMs ([published at ICML 2025](https://arxiv.org/abs/2502.20377))
-- Training reasoning LLMs using dataset curriculums (advised by Prof. Kilian Weinberger)
-- Speeding up GenAI inference with intra-GPU caching (advised by Prof. Rachee Singh)
+- Generating synthetic datasets for evaluating reasoning and retrieval LLMs ([published at ICML 2025](https://arxiv.org/abs/2502.20377))
+- Training small LLMs to reason using synthetic datasets (advised by Prof. Kilian Weinberger)
+- Speeding up data center LLM inference with intra-GPU memory offloading (advised by Prof. Rachee Singh)
 - $.99 bias in data labeling pricing (advised by Dr. Bart De Koning)
 - Come talk to me about my startup!
 

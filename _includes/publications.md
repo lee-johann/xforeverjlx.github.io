@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="pub-abstract">
-    <p>Evaluation datasets and knowledge often get scraped into LLM pretraining data, causing data-contamination. We adresses this with PhantomWiki, a pipeline for generating synthetic datasets (for reasoning and retrieval evaluation). We show its resilience to scraping, and use it to identify 3 areas of improvement in state-of-the-art RAG and agentic methods: subtask composition, multi-branch reasoning, and needle-in-a-haystack style in-context retrieval.</p>
+    <p>We adresses evaluation datasets getting scraped into pretraining data with a pipeline for generating synthetic datasets (for reasoning and retrieval evaluation). We demonstrate its scraping resilience, and use it to identify improvements in RAG and agentic methods: subtask composition, multi-branch reasoning, and needle-in-a-haystack retrieval.</p>
   </div>
 </div>
 </li>
@@ -46,7 +46,7 @@
     </div>
   </div>
   <div class="pub-abstract">
-    <p>Since initiatives for  measuring  safe,  ethical  AI are scattered and fragmented, this review outlines state-of-the-art methods, their proper utilization, and systemic weaknesses and scaling issues. By doing so, this review seeks to foster continuing discourse and innovation among both technical developers and non-technical policymakers.</p>
+    <p>Since initiatives for  measuring  safe,  ethical  AI are scattered and fragmented, this review outlines state-of-the-art methods, their proper utilization, and systemic weaknesses and scaling issues. By doing so, we seek to foster continuing discourse and innovation among both technical developers and non-technical policymakers.</p>
   </div>
 </div>
 </li>

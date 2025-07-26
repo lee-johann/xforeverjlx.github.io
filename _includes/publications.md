@@ -7,7 +7,7 @@
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
-      <img src="assets/img/phantom_wiki.png" class="teaser img-fluid z-depth-1">
+      <img src="/assets/img/phantom_wiki.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge">ICML</abbr>
     </div>
     <div class="pub-content">
@@ -34,7 +34,7 @@
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
-      <img src="assets/img/grace.png" class="teaser img-fluid z-depth-1">
+      <img src="/assets/img/grace.png" class="teaser img-fluid z-depth-1">
     </div>
     <div class="pub-content">
       <div class="title"><a href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/3839/1814">Towards Safe and Ethical AI</a></div>

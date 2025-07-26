@@ -7,13 +7,13 @@
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
-      <img src="/assets/img/phantom_wiki.png" class="teaser img-fluid z-depth-1">
+      <img src="./assets/img/phantom_wiki.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge">ICML</abbr>
     </div>
     <div class="pub-content">
       <div class="title"><a href="https://arxiv.org/pdf/2502.20377">PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation</a></div>
-      <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML)</strong>, 2025</em></div>
-      <div class="periodical"><em>ICLR Workshop on Data Problems for Foundation Models, 2025</em></div>
+      <div class="periodical"><em><strong>ICML</strong> 2025 (International Conference on Machine Learning)</em></div>
+      <div class="periodical"><em>ICLR 2025 Workshop</em></div>
       <div class="links">
         <a href="https://arxiv.org/pdf/2502.20377" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://github.com/kilian-group/phantom-wiki" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -34,7 +34,7 @@
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
-      <img src="/assets/img/grace.png" class="teaser img-fluid z-depth-1">
+      <img src="./assets/img/grace.png" class="teaser img-fluid z-depth-1">
     </div>
     <div class="pub-content">
       <div class="title"><a href="https://ojs.stanford.edu/ojs/index.php/grace/article/view/3839/1814">Towards Safe and Ethical AI</a></div>

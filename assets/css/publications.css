@@ -359,16 +359,17 @@ screen and (min-width: 480px) {
   }
 
   .publications ol.bibliography li .pub-image {
-    flex: 0 0 230px !important;
-    width: 230px !important;
-    margin-right: 20px !important;
+    flex: 0 0 47.5% !important;
+    width: 47.5% !important;
+    margin-right: 5% !important;
     margin-bottom: 0 !important;
   }
 
   .publications ol.bibliography li .pub-content {
-    flex: 1 !important;
+    flex: 0 0 47.5% !important;
+    width: 47.5% !important;
     min-width: 0 !important;
-    max-width: calc(100% - 250px) !important;
+    max-width: 47.5% !important;
   }
 
   .publications ol.bibliography li .pub-content .title {

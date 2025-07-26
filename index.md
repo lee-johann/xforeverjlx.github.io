@@ -8,7 +8,6 @@ layout: homepage
 - Training small LLMs to reason using synthetic datasets (PI: Prof. Kilian Weinberger)
 - Speeding up cloud LLM inference with intra-GPU memory offloading (PI: Prof. Rachee Singh)
 - $.99 bias in data labeling pricing (advised by Dr. Bart De Koning)
-- Productionizing conditional ATE models
 - Come talk to me about my startup!
 
 <!-- ## Recent Readings

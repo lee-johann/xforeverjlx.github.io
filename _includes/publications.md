@@ -8,10 +8,10 @@
   <div class="pub-header">
     <div class="pub-image">
       <img src="assets/img/reasoning.png" class="teaser img-fluid z-depth-1">
-      Optional: <abbr class="badge">ICLR</abbr>
+      <abbr class="badge">ICLR</abbr>
     </div>
     <div class="pub-content">
-      <div class="Learning from Synthetic Data Improves Multi-hop Reasoning"><a href="https://arxiv.org/abs/2603.02091">Paper Title</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2603.02091">Learning from Synthetic Data Improves Multi-hop Reasoning</a></div>
       <div class="periodical"><em><strong>ICLR</strong> 2026 (International Conference on Learning Representations)</em></div>
       <!-- Optional second line: <div class="periodical">Award or note</div> -->
       <div class="links">

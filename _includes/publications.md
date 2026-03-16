@@ -7,13 +7,37 @@
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
+      <img src="assets/img/reasoning.png" class="teaser img-fluid z-depth-1">
+      Optional: <abbr class="badge">ICLR</abbr>
+    </div>
+    <div class="pub-content">
+      <div class="Learning from Synthetic Data Improves Multi-hop Reasoning"><a href="https://arxiv.org/abs/2603.02091">Paper Title</a></div>
+      <div class="periodical"><em><strong>ICLR</strong> 2026 (International Conference on Learning Representations)</em></div>
+      <!-- Optional second line: <div class="periodical">Award or note</div> -->
+      <div class="links">
+        <a href="https://arxiv.org/abs/2603.02091" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://github.com/kilian-group/phantom-reasoning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      </div>
+    </div>
+  </div>
+  <div class="pub-abstract">
+    <p>RL post-training has considerable limitations: human-annotated datasets are expensive, and LLM-generated data lacks reliable verification. We show that RL fine-tuning on rule-generated synthetic data can induce knowledge composition. This skill transfers to real-world question-answering benchmarks, significantly improving performance for reasoning across multiple logical steps. </p>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="pub-header">
+    <div class="pub-image">
       <img src="assets/img/phantom_wiki.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge">ICML</abbr>
     </div>
     <div class="pub-content">
       <div class="title"><a href="https://arxiv.org/pdf/2502.20377">PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation</a></div>
       <div class="periodical"><em><strong>ICML</strong> 2025 (International Conference on Machine Learning)</em></div>
-      <div class="periodical"><em>ICLR 2025 Workshop</em></div>
+      <!-- <div class="periodical"><em>ICLR 2025 Workshop</em></div> -->
       <div class="links">
         <a href="https://arxiv.org/pdf/2502.20377" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <a href="https://github.com/kilian-group/phantom-wiki" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -50,6 +74,7 @@
   </div>
 </div>
 </li>
+
 
 </ol>
 </div>

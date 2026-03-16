@@ -5,10 +5,12 @@ layout: homepage
 ## Recent Interests
 
 <!-- - Synthetic evaluation datasets for reasoning and retrieval LLMs ([published at ICML 2025](https://arxiv.org/abs/2502.20377)) -->
-- Training small LLMs to reason using synthetic datasets (PI: Prof. Kilian Weinberger)
+<!-- - Training small LLMs to reason using synthetic datasets (PI: Prof. Kilian Weinberger) -->
+- Agriculture, real estate, and elderly care
+- VLA models & Emodied AI
 - Speeding up cloud LLM inference with intra-GPU memory offloading (PI: Prof. Rachee Singh)
-- $.99 bias in data labeling pricing (advised by Dr. Bart De Koning)
-- Come talk to me about my startup!
+<!-- - $.99 bias in data labeling pricing (advised by Dr. Bart De Koning)
+- Come talk to me about my startup! -->
 
 <!-- ## Recent Readings
 

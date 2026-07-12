@@ -54,7 +54,7 @@
 <br>
 
 
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="pub-header">
     <div class="pub-image">
@@ -73,7 +73,7 @@
     <p>Since initiatives for  measuring  safe,  ethical  AI are scattered and fragmented, this review outlines state-of-the-art methods, their proper utilization, and systemic weaknesses and scaling issues. By doing so, we seek to foster continuing discourse and innovation among both technical developers and non-technical policymakers.</p>
   </div>
 </div>
-</li>
+</li> -->
 
 
 </ol>
